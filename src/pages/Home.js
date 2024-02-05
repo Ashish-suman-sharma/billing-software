@@ -33,19 +33,7 @@ export default function Home() {
                 </li>
               </ul>
 
-              <div>
-                <p className="text-slate-700 mt-5 text-center md:text-left">
-                  Do you like Invoicer? Check out my other app called{" "}
-                  <a
-                    href="https://diarry.netlify.app"
-                    target="_blank"
-                    rel="noreferrer"
-                    className="underline text-slate-700"
-                  >
-                    Diarry
-                  </a>
-                </p>
-              </div>
+              
             </article>
 
             <article className="hidden md:block">
