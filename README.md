@@ -1,6 +1,6 @@
 # About Invoicer - Read the note at the end
 
-#### https://invoicerv2.netlify.app
+#### https://invoice-genrator-v1.netlify.app
 
 ![alt](./Screenshot.png)
 
@@ -24,4 +24,4 @@ npm start
 
 
 
-### Built by [Ashish suman]https://invoice-genrator-v1.netlify.app/)
+### Built by [Ashish suman](https://ashishsuman.me)
